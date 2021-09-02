@@ -19,8 +19,13 @@
 
 h1{
 	color: #ffffff;
-	
 	font-size: 70px;
+}
+
+h3{
+    color: #ffffff;
+	font-size: 20px;
+	background-color: #DC143C;
 }
 
 .page-header > p {
@@ -38,6 +43,6 @@ h1{
 
 
 div{
-	background-color: brown;
+	background-color: #DC143C;
 	padding: 30px;
 }
